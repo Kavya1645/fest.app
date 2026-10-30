@@ -1,0 +1,20 @@
+# Java
+*.class
+*.jar
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
